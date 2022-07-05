@@ -1,6 +1,6 @@
 # Assignment7-Hierarchical_Clustering-Crime
 
-Perform Clustering(Hierarchical, Kmeans &amp; DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.  
+Perform Clustering(Hierarchical) for the crime data and identify the number of clusters formed and draw inferences.  
 
 Data Description: 
 
